@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	char alph;
+	int alph;
 
 	for (alph = 'z'; alph >= 'a'; alph--)
-		printf("%d", alph);
-	printf("\n");
+		putchar(alph);
+	putchar('\n');
 	return (0);
 }
