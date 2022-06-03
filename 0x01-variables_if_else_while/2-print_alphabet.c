@@ -10,6 +10,6 @@ int main(void)
 {
 	int alph;
 	for (alph = 'a'; alph <= 'z'; alph++)
-		putchar(alph + "\n");
+		putchar(alph);
 	return (0);
 }
