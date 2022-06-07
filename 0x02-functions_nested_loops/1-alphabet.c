@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include "main.h"
-/* Print alphabet
+/* *
+ * Print alphabet
  * in lowercase
  * return 0
  * */
