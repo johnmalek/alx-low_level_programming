@@ -1,8 +1,7 @@
 #include "main.h"
 /**
  * main - check the code
- *
- * Return: Always 0.
+ * mul - multiply two integers
  */
 int mul(int a, int b)
 {
