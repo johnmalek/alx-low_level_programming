@@ -1,0 +1,17 @@
+#include "main.h"
+/**
+ * _puts2 - a function that prints every character of a string
+ * @str: input string pointer
+ * Return: Nothing
+ */
+void _puts2(char *str)
+{
+	int i = 0;
+
+	while (str[i] != '\0')
+	{
+		_putchar(stri[]);
+		_putchar('\n');
+		i++;
+	}
+}
