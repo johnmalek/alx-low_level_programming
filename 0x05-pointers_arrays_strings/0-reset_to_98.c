@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * function - update value pointed to by an int
- *
+ * description - update value pointed to by an int
+ *  
+ * return nothing
  */
 void reset_to_98(int *n)
 {
