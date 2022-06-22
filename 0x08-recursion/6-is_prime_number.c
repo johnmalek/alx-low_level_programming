@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 int is_divisible(int num, int div);
 /**
  * is_prime_number - Afunction that checks if a number is prime.
