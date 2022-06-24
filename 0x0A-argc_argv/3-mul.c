@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	else
 	{
 		n1 = atoi(argv[1]);
-		n2 = atoi(argv[2]);	
+		n2 = atoi(argv[2]);
 		product = n1 * n2;
 		printf("%d\n", product);
 	}
