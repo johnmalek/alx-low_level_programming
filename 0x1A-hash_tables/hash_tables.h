@@ -72,4 +72,4 @@ typedef struct shash_table_s
 
 hash_table_t *hash_table_create(unsigned long int size);
 
-#ENDIF /* HASH_TABLE_H */
+#endif /* HASH_TABLE_H */
