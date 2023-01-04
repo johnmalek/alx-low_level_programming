@@ -1,6 +1,5 @@
 #include "search_algos.h"
-#include <stdlib.h>
-#include <stdio.h>
+
 /**
  * binary_search - binary search algorithm for arrays.
  * @array: array to be searched.
@@ -14,7 +13,7 @@ int binary_search(int *array, size_t size, int value)
 
 	if (!array || size <= 0)
 		return (-1);
-	while (l < r)
+	while (l <= r)
 	{
 		printf("Searching in array: ");
 		for (i = 1; i <= r; i++)
